@@ -1,7 +1,7 @@
 # Enough With Guards
 
 **Version**: 1.0.0  
-**Author**: Gben5692  
+**Author**: gben5692  
 
 ---
 
