@@ -13,7 +13,7 @@ namespace EnoughWithGuards
     public class Plugin : Plugin<Config>
     {
         public override string Name => "EnoughWithGuards";
-        public override string Author => "YourName";
+        public override string Author => "gben5692";
         public override Version Version { get; } = new Version(1, 5, 2);
 
         private const int MaxGuards = 5;
