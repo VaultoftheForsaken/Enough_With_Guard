@@ -23,5 +23,5 @@
 
 ## Installation
 
-1. Download the `EnoughWithGuards.dll` file from the [releases](https://github.com/VaultoftheForsaken/EnoughWithGuards/releases).
+1. Download the `EnoughWithGuards.dll` file from the [releases](https://github.com/VaultoftheForsaken/Enough_With_Guards/releases).
 2. Place the `.dll` file in your server's **Exiled Plugins** folder:
