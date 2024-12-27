@@ -14,7 +14,7 @@ namespace EnoughWithGuards
     {
         public override string Name => "EnoughWithGuards";
         public override string Author => "gben5692";
-        public override Version Version { get; } = new Version(1, 5, 2);
+        public override Version Version { get; } = new Version(1, 0, 0);
 
         private const int MaxGuards = 5;
         private const int MaxChaos = 5;
